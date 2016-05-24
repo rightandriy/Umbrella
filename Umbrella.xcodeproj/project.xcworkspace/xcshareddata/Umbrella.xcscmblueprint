@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B728DB7CF059F504A19985711582E3489DCCE87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6B728DB7CF059F504A19985711582E3489DCCE87" : 0,
+    "52F8F78141534EA7935754EA4F1C9D99A12422CC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "27638345-50D3-4F0E-8437-E329F7F14C38",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6B728DB7CF059F504A19985711582E3489DCCE87" : "Umbrella%20with%20classification\/",
+    "52F8F78141534EA7935754EA4F1C9D99A12422CC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Umbrella",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Umbrella.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rightandriy\/BMU-project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52F8F78141534EA7935754EA4F1C9D99A12422CC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rightandriy\/Umbrella-with-classification.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B728DB7CF059F504A19985711582E3489DCCE87"
+    }
+  ]
+}
